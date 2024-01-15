@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200sp"
+    android:background="@color/lightGreen">
+
+    <ImageView
+        android:id="@+id/img"
+        android:layout_width="70sp"
+        android:layout_height="70sp"
+       android:layout_marginTop="10sp"
+        android:layout_marginStart="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:src="@drawable/person"
+        />
+
+    <TextView
+        android:id="@+id/header_email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="@id/img"
+        app:layout_constraintTop_toBottomOf="@id/img"
+        android:text="Email@mail.com"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginTop="10sp"
+
+        />
+
+    <TextView
+        android:id="@+id/header_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="@id/img"
+        app:layout_constraintTop_toBottomOf="@id/header_email"
+        android:text="dsddsdsk"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginTop="10sp"
+
+        />
+
+    <TextView
+        android:id="@+id/header_phone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="@id/img"
+        app:layout_constraintTop_toBottomOf="@id/header_id"
+        android:text="01234567890"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginTop="10sp"
+
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
