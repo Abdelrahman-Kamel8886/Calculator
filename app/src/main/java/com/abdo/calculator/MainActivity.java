@@ -261,9 +261,9 @@ public class MainActivity extends AppCompatActivity {
                     else{
                         binding.finalTv.setText("");
                         binding.resultTv.setText(final_result);
-                        myStrings.add(final_result);
-                        editor.putStringSet("history", myStrings);
-                        editor.commit();
+                        //myStrings.add(final_result);
+                        //editor.putStringSet("history", myStrings);
+                        //editor.commit();
                     }
                 }
 
