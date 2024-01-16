@@ -1,7 +1,7 @@
 # Calculator
 Simple Android Java Calulator App
 
-# Ui/Ux Design By Mostafa Mohamed 
+# Ui/Ux Designed By Mostafa Hussien 
 Figma Link : https://www.figma.com/file/4r9MepsXk8qvKVfpriniDT/Untitled?type=design&t=fu2NdevWY0D2D7g0-6
 
 
