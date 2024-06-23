@@ -13,7 +13,3 @@ Figma Link : https://www.figma.com/file/4r9MepsXk8qvKVfpriniDT/Untitled?type=des
 
 ## Author
 Abdelrahman Kamel
-
-abdelrahmankamel8886@gmail.com
-
-+201017372138
