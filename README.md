@@ -3,7 +3,7 @@ Simple Android Java Calulator App
 
 ## Ui/Ux Designed By Mostafa Hussien 
 ### Figma Link : https://www.figma.com/design/4r9MepsXk8qvKVfpriniDT/Calulator
-### Cotact With Mostafa : https://linktr.ee/mosta7ahussi3n
+### Contact With Mostafa : https://linktr.ee/mosta7ahussi3n
 
 
 ## Screenshots
