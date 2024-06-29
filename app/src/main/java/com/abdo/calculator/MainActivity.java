@@ -434,7 +434,7 @@ public class MainActivity extends AppCompatActivity {
                 break;
         }
 
-        for(int i = index - 1; i >= 0; i--)
+        for(int i =0 ; i <= index - 1; i++)
         {
             if(isNumeric(workings.charAt(i)))
                 numberLeft = numberLeft + workings.charAt(i);
